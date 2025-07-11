@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/adnanbayuaji" target="blank"><img src="https://img.shields.io/twitter/follow/adnanbayuaji?logo=twitter&style=for-the-badge" alt="adnanbayuaji" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development using .NET tech stack**
+- 🔭 I’m currently working on **Web Development using WAMP (Windows, Apache, MySQL, PHP) tech stack in Government Institution**
 
-- 🌱 I’m currently learning **.NET framework**
+- 🌱 I’m currently learning **Backend and Data Science framework**
 
-- 👨‍💻 Passionate in **Administrative Process, especially in General Affairs and Multifinances**
+- 👨‍💻 Passionate in **Administrative Process, especially in General Affairs, Multifinances and Government Compliment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adnanbayuaji](https://github.com/adnanbayuaji)
 
